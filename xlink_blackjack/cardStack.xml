@@ -1,0 +1,58 @@
+<cardStack>
+    <card color='club' value='1' alt_value='11' name='A' />
+    <card color='club' value='2' name='2' />
+    <card color='club' value='3' name='3' />
+    <card color='club' value='4' name='4' />
+    <card color='club' value='5' name='5' />
+    <card color='club' value='6' name='6' />
+    <card color='club' value='7' name='7' />
+    <card color='club' value='8' name='8' />
+    <card color='club' value='9' name='9' />
+    <card color='club' value='10' name='10' />
+    <card color='club' value='10' name='J' />
+    <card color='club' value='10' name='Q' />
+    <card color='club' value='10' name='K' />
+
+    <card color='diamond' value='1' alt_value='11' name='A' />
+    <card color='diamond' value='2' name='2' />
+    <card color='diamond' value='3' name='3' />
+    <card color='diamond' value='4' name='4' />
+    <card color='diamond' value='5' name='5' />
+    <card color='diamond' value='6' name='6' />
+    <card color='diamond' value='7' name='7' />
+    <card color='diamond' value='8' name='8' />
+    <card color='diamond' value='9' name='9' />
+    <card color='diamond' value='10' name='10' />
+    <card color='diamond' value='10' name='J' />
+    <card color='diamond' value='10' name='Q' />
+    <card color='diamond' value='10' name='K' />
+
+    <card color='heart' value='1' alt_value='11' name='A' />
+    <card color='heart' value='2' name='2' />
+    <card color='heart' value='3' name='3' />
+    <card color='heart' value='4' name='4' />
+    <card color='heart' value='5' name='5' />
+    <card color='heart' value='6' name='6' />
+    <card color='heart' value='7' name='7' />
+    <card color='heart' value='8' name='8' />
+    <card color='heart' value='9' name='9' />
+    <card color='heart' value='10' name='10' />
+    <card color='heart' value='10' name='J' />
+    <card color='heart' value='10' name='Q' />
+    <card color='heart' value='10' name='K' />
+
+    <card color='spade' value='1' alt_value='11' name='A' />
+    <card color='spade' value='2' name='2' />
+    <card color='spade' value='3' name='3' />
+    <card color='spade' value='4' name='4' />
+    <card color='spade' value='5' name='5' />
+    <card color='spade' value='6' name='6' />
+    <card color='spade' value='7' name='7' />
+    <card color='spade' value='8' name='8' />
+    <card color='spade' value='9' name='9' />
+    <card color='spade' value='10' name='10' />
+    <card color='spade' value='10' name='J' />
+    <card color='spade' value='10' name='Q' />
+    <card color='spade' value='10' name='K' />
+    
+</cardStack>
